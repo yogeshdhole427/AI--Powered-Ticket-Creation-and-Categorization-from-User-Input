@@ -170,4 +170,4 @@ This project is licensed under the MIT License.
 ---
 
 ### 👩‍💻 Author
-**Yogesh Dhole** - AI-Powered Ticket Creation & Categorization System 2025
+ - AI-Powered Ticket Creation & Categorization System 2025
