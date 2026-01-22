@@ -1,0 +1,24 @@
+# Web Framework & UI
+streamlit
+fastapi
+uvicorn
+requests
+
+# Data Science & Visualization
+pandas
+numpy
+plotly
+matplotlib
+wordcloud
+
+# Machine Learning & AI
+torch
+transformers
+safetensors
+
+# Natural Language Processing (NLP)
+spacy
+keybert
+langdetect
+deep-translator
+nltk
